@@ -12,7 +12,7 @@ Work without a working video link is incomplete.
 
 The video is half the grade. Explain what `average` returns and what `printSummary` does, then show a real run.
 
-**Your demo:** _add your link here_
+**Your demo:** https://drive.google.com/file/d/16KpXZM5da3UfY94td6YaKjEVS3bNg8i0/view?usp=sharing
 
 
 ## What to build
@@ -40,7 +40,7 @@ Use `main.cpp`. Put your name in the file-top comment.
 
 ## Environment
 
-VS 2022 · **GitHub Codespaces** · Replit · library machines
+VSCode · **g++** · home PC
 
 ## Scope fence
 
