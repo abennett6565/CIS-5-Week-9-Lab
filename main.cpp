@@ -7,6 +7,11 @@
 // take in an array of integers to find the average of and how many integers there are in the array
 double average(const int a[], int n)
 {
+  if(n == 0)
+  {
+    return 0;
+  }
+
   int sum = 0;
 
   // calculate the sum of all integers in the given array
